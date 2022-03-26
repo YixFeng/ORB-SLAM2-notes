@@ -1,4 +1,4 @@
-# ORB-SLAM2源代码(Monocular部分)学习笔记
+# ORB-SLAM2源代码(Monocular camera部分)学习笔记
 > 更新完毕！多多Star※
 
 **修正：**
