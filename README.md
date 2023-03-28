@@ -1,5 +1,5 @@
-# ORB-SLAM2源代码(Monocular camera部分)学习笔记
-> 更新完毕！多多Star※
+# Study Notes of ORB-SLAM2(Monocular Camera Part)
+> Completed
 
-**修正：**
-1. 第三章，求解基础矩阵F这部分，右下角的推导结果，本质矩阵和基础矩阵标注反了
+## Correction
+1. Chapter 3, at the part of solving fundamental matrix F, the essential matrix and fundamental matrix are labeled inverse.
