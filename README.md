@@ -1,4 +1,4 @@
-# Study Notes of ORB-SLAM2(Monocular Camera Part)
+# Study Notes of ORB-SLAM2 (Monocular Camera Part)
 > Completed
 
 ## Correction
